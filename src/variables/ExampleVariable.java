@@ -15,7 +15,7 @@ public class ExampleVariable {
 
         boolean value = false; // True - False
 
-        // Conditional
+        // Conditional.
         if (value){
             System.out.println(variablePrimitive);
         }else{
